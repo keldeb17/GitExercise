@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name: 			Surname: 		Country Code: 		Phone:		
 
 Kelsey 			Debono			5555			21212121	
@@ -7,3 +8,12 @@ Romina			Debono			7878			21656968
 John			Smith			6489			79866542	
 Salvina 		Borg			7873			79632456
 Claude			Falzon			8598			79898989
+=======
+Name: 			Surname: 		Country Code: 		Phone:		Email:
+
+Kelsey 			Debono			5555			21212121	kel.deb@hotmail.com
+Mariah			Debono			4545			21333333	mar.deb@hotmail.com
+Joseph			Debono			6565			21656565	jo.deb@gmail.com
+Romina			Debono			7878			21656968	rom.deb@gmail.com
+John			Smith			6489			79866542	j.smith@gmail.com
+>>>>>>> Email
