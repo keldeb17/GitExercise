@@ -1,0 +1,7 @@
+Name: 			Surname: 		Country Code: 		Phone:		Email:
+
+Kelsey 			Debono			5555			21212121	kel.deb@hotmail.com
+Mariah			Debono			4545			21333333	mar.deb@hotmail.com
+Joseph			Debono			6565			21656565	jo.deb@gmail.com
+Romina			Debono			7878			21656968	rom.deb@gmail.com
+John			Smith			6489			79866542	j.smith@gmail.com
