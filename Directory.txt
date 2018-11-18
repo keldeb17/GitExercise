@@ -5,3 +5,5 @@ Mariah			Debono			4545			21333333
 Joseph			Debono			6565			21656565	
 Romina			Debono			7878			21656968	
 John			Smith			6489			79866542	
+Salvina 		Borg			7873			79632456
+Claude			Falzon			8598			79898989
