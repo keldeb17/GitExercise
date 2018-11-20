@@ -1,0 +1,5 @@
+Number of people in directory:
+7
+
+Female: 4
+Male: 3
