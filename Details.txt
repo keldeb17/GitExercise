@@ -3,3 +3,5 @@ Number of people in directory:
 
 Female: 4
 Male: 3
+
+Files edited: 1 - Directory.txt
